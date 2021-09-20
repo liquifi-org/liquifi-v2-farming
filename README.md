@@ -1,5 +1,5 @@
-# Liquifi Core V2
-Liquifi V2 contracts  
+# Liquifi V2 Farming
+Liquifi V2 farming and staking contracts  
 
 > NB! Please run `yarn format` before committing changes
 > NB! Need to create an account on https://testnet-explorer.binance.org
